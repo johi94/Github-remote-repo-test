@@ -1,3 +1,6 @@
 git init // for initializing repository
-git add <file>
+git add test 123
 git commit -m "your commit message"
+
+
+Ich teste commit und git
